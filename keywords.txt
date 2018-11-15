@@ -1,0 +1,62 @@
+#######################################
+# Syntax Coloring Map For PhpocExpansion
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PhpocExpansion	KEYWORD1
+ExpansionRelayOutput	KEYWORD1
+ExpansionPhotoInput	KEYWORD1
+ExpansionDCMotor	KEYWORD1
+ExpansionStepper	KEYWORD1
+ExpansionSerial	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+command	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+isOn	KEYWORD2
+isOff	KEYWORD2
+setDelay	KEYWORD2
+setPolarity	KEYWORD2
+setDirection	KEYWORD2
+setPeriod	KEYWORD2
+setWidth	KEYWORD2
+setDecay	KEYWORD2
+setEncoderPolarity	KEYWORD2
+setEncoderPosition	KEYWORD2
+setEncoderPSR	KEYWORD2
+getEncoderPosition	KEYWORD2
+getEncoderPeriod	KEYWORD2
+setFilterFrequency	KEYWORD2
+setFilterPNC	KEYWORD2
+getFilterPNC	KEYWORD2
+reset	KEYWORD2
+unlock	KEYWORD2
+setMode	KEYWORD2
+setVrefStop	KEYWORD2
+setVrefDrive	KEYWORD2
+setVrefLock	KEYWORD2
+setResonance	KEYWORD2
+setSpeed	KEYWORD2
+setAccel	KEYWORD2
+setPosition	KEYWORD2
+getState	KEYWORD2
+getPosition	KEYWORD2
+stepMove	KEYWORD2
+stepGoto	KEYWORD2
+stepGotoSW	KEYWORD2
+stop	KEYWORD2
+setEioMode	KEYWORD2
+getEio	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
